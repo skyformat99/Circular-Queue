@@ -1,9 +1,19 @@
+////
+////  queue.cpp
+////  ring_queue
+////
+////  Created by Guorui Xiao on 2017/11/25.
+////  Copyright © 2017年 Guorui Xiao. All rights reserved.
+////
 //
-//  queue.cpp
-//  ring_queue
+//#include "queue.hpp"
 //
-//  Created by Guorui Xiao on 2017/11/25.
-//  Copyright © 2017年 Guorui Xiao. All rights reserved.
+///*************************
+// RingQueue Implementation
+// ************************/
 //
-
-#include "queue.hpp"
+////template <typename type, size_t size>
+////RingQueue<type, size>::RingQueue():ring_size(size), beging_index(0){}
+////
+//
+//
